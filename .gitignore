@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Environment variables file 
+.env
+
+# SQLite database file 
+*.db
+
+# Other generated files
+__pycache__/
+migrations/
+
+# Logs and other temporary files
+*.log
+*.tmp
+
